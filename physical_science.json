@@ -1,0 +1,165 @@
+{
+  "section": "Physical Science",
+  "time_minutes": 10,
+  "questions": [
+    {
+      "number": 1,
+      "q": "Which quantity remains constant when an object moves with uniform circular motion?",
+      "options": ["Velocity", "Acceleration", "Speed", "Direction"],
+      "correct": "Speed"
+    },
+    {
+      "number": 2,
+      "q": "An object is thrown vertically upward. At its highest point, which of the following is true?",
+      "options": ["Velocity is zero, acceleration is zero", "Velocity is zero, acceleration is downward", "Velocity is maximum, acceleration is zero", "Velocity and acceleration are both upward"],
+      "correct": "Velocity is zero, acceleration is downward"
+    },
+    {
+      "number": 3,
+      "q": "If the net force acting on an object is zero, the object must:",
+      "options": ["Be at rest", "Move with constant velocity", "Be accelerating", "Eventually stop"],
+      "correct": "Move with constant velocity"
+    },
+    {
+      "number": 4,
+      "q": "Which change will increase the gravitational force between two objects?",
+      "options": ["Increasing the distance between them", "Decreasing one mass", "Increasing both masses", "Decreasing gravitational constant"],
+      "correct": "Increasing both masses"
+    },
+    {
+      "number": 5,
+      "q": "A 2 kg object accelerates at 4 m/s². What is the net force acting on it?",
+      "options": ["2 N", "4 N", "6 N", "8 N"],
+      "correct": "8 N"
+    },
+    {
+      "number": 6,
+      "q": "Which type of electromagnetic radiation has the highest energy?",
+      "options": ["Infrared", "Ultraviolet", "X-rays", "Radio waves"],
+      "correct": "X-rays"
+    },
+    {
+      "number": 7,
+      "q": "When light passes from air into glass, which of the following decreases?",
+      "options": ["Frequency", "Speed", "Energy", "Color"],
+      "correct": "Speed"
+    },
+    {
+      "number": 8,
+      "q": "Which law explains why passengers move forward when a car suddenly stops?",
+      "options": ["Newton’s First Law", "Newton’s Second Law", "Newton’s Third Law", "Law of Gravitation"],
+      "correct": "Newton’s First Law"
+    },
+    {
+      "number": 9,
+      "q": "The area under a velocity-time graph represents:",
+      "options": ["Acceleration", "Distance traveled", "Speed", "Force"],
+      "correct": "Distance traveled"
+    },
+    {
+      "number": 10,
+      "q": "Which circuit component opposes the flow of electric current?",
+      "options": ["Capacitor", "Inductor", "Resistor", "Battery"],
+      "correct": "Resistor"
+    },
+
+    {
+      "number": 11,
+      "q": "Which type of bond involves the sharing of electrons between atoms?",
+      "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+      "correct": "Covalent bond"
+    },
+    {
+      "number": 12,
+      "q": "What is the pH of a solution with a hydrogen ion concentration of 1 × 10⁻³?",
+      "options": ["3", "7", "10", "11"],
+      "correct": "3"
+    },
+    {
+      "number": 13,
+      "q": "Which factor increases the rate of a chemical reaction?",
+      "options": ["Lower temperature", "Decreased surface area", "Catalyst presence", "Reduced concentration"],
+      "correct": "Catalyst presence"
+    },
+    {
+      "number": 14,
+      "q": "Which gas law explains why a balloon expands when heated at constant pressure?",
+      "options": ["Boyle’s Law", "Charles’s Law", "Avogadro’s Law", "Ideal Gas Law"],
+      "correct": "Charles’s Law"
+    },
+    {
+      "number": 15,
+      "q": "How many moles are present in 44 grams of carbon dioxide (CO₂)?",
+      "options": ["0.5", "1", "2", "4"],
+      "correct": "1"
+    },
+    {
+      "number": 16,
+      "q": "Which subatomic particle primarily determines an atom’s chemical behavior?",
+      "options": ["Neutron", "Proton", "Electron", "Nucleus"],
+      "correct": "Electron"
+    },
+    {
+      "number": 17,
+      "q": "Which of the following is an example of a physical change?",
+      "options": ["Rusting of iron", "Burning wood", "Melting ice", "Digesting food"],
+      "correct": "Melting ice"
+    },
+
+    {
+      "number": 18,
+      "q": "Which organelle is responsible for energy production in cells?",
+      "options": ["Ribosome", "Nucleus", "Mitochondria", "Golgi apparatus"],
+      "correct": "Mitochondria"
+    },
+    {
+      "number": 18,
+      "q": "Which system in the human body regulates hormones?",
+      "options": ["Nervous system", "Digestive system", "Endocrine system", "Respiratory system"],
+      "correct": "Endocrine system"
+    },
+    {
+      "number": 19,
+      "q": "Which molecule carries genetic information?",
+      "options": ["RNA", "Protein", "DNA", "Lipid"],
+      "correct": "DNA"
+    },
+    {
+      "number": 20,
+      "q": "Which process converts glucose into energy in cells?",
+      "options": ["Photosynthesis", "Respiration", "Fermentation", "Transcription"],
+      "correct": "Respiration"
+    },
+    {
+      "number": 21,
+      "q": "Red blood cells are specialized for oxygen transport because they:",
+      "options": ["Have a nucleus", "Contain hemoglobin", "Are spherical", "Produce antibodies"],
+      "correct": "Contain hemoglobin"
+    },
+    {
+      "number": 22,
+      "q": "Which structure controls the movement of substances into and out of a cell?",
+      "options": ["Cell wall", "Cytoplasm", "Cell membrane", "Nucleus"],
+      "correct": "Cell membrane"
+    },
+    {
+      "number": 23,
+      "q": "Which type of muscle is found in the heart?",
+      "options": ["Skeletal", "Smooth", "Cardiac", "Voluntary"],
+      "correct": "Cardiac"
+    },
+
+    {
+      "number": 24,
+      "q": "If an object moves 20 meters in 4 seconds, what is its average speed?",
+      "options": ["4 m/s", "5 m/s", "6 m/s", "8 m/s"],
+      "correct": "5 m/s"
+    },
+    {
+      "number": 25,
+      "q": "What is the kinetic energy of a 2 kg object moving at 3 m/s? (KE = ½mv²)",
+      "options": ["6 J", "9 J", "12 J", "18 J"],
+      "correct": "9 J"
+    }
+  ]
+}

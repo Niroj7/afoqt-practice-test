@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>AFOQT Practice Test</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f6fa;
+      margin: 0;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 40px auto;
+      background: #ffffff;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 0 14px rgba(0,0,0,0.12);
+    }
+
+    h1, h2 {
+      text-align: center;
+    }
+
+    #timer {
+      text-align: center;
+      font-size: 18px;
+      color: red;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 14px;
+      width: 100%;
+      font-size: 16px;
+      cursor: pointer;
+      border: none;
+      border-radius: 6px;
+      background: #3366ff;
+      color: white;
+      margin-bottom: 12px;
+    }
+
+    button:hover {
+      background: #254eda;
+    }
+
+    .selected {
+      background: #cfe0ff !important;
+      color: #000;
+      font-weight: bold;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 15px;
+      margin-top: 25px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 15px;
+      margin-top: 25px;
+    }
+
+    .hidden {
+      display: none;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 20px;
+      color: gray;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="container">
+
+    <!-- ================= HOME ================= -->
+    <div id="home">
+      <h1>  Niroj AFOQT Practice Test</h1>
+      <p style="text-align:center">
+        Choose a section or take the full test
+      </p>
+
+      <div class="grid">
+        <button onclick="startSingleSection('Word Knowledge')">Word Knowledge</button>
+        <button onclick="startSingleSection('Arithmetic Reasoning')">Arithmetic Reasoning</button>
+        <button onclick="startSingleSection('Math Knowledge')">Math Knowledge</button>
+        <button onclick="startSingleSection('Verbal Analogies')">Verbal Analogies</button>
+        <button onclick="startSingleSection('Aviation Information')">Aviation Information</button>
+        <button onclick="startSingleSection('Physical Science')">Physical Science</button>
+      </div>
+
+      <button style="margin-top:20px" onclick="alert('Full test coming next!')">
+        ▶ Start Full Test
+      </button>
+    </div>
+
+    <!-- ================= TEST ================= -->
+    <div id="test" class="hidden">
+      <h2 id="sectionTitle"></h2>
+      <div id="timer">Time: 00:00</div>
+
+      <div id="question" style="font-size:18px; margin-bottom:15px;"></div>
+      <div id="options"></div>
+
+      <div class="nav">
+        <button onclick="prevQuestion()">⬅ Back</button>
+        <button onclick="nextQuestion()">Next ➡</button>
+      </div>
+    </div>
+
+    <!-- ================= RESULTS ================= -->
+    <div id="results" class="hidden">
+      <h2 id="resultTitle"></h2>
+      <div id="resultsContent"></div>
+
+      <button onclick="goHome()" style="margin-top:20px">
+        ⬅ Back to Home
+      </button>
+    </div>
+
+    <footer>
+      Practice only • Timed • Exam-style
+    </footer>
+
+  </div>
+
+  <!-- IMPORTANT: quiz.js MUST be in the same AFOQT folder -->
+  <script src="quiz.js"></script>
+</body>
+</html>

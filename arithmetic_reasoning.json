@@ -1,0 +1,162 @@
+{
+  "section": "Arithmetic Reasoning",
+  "time_minutes": 29,
+  "questions": [
+    {
+      "number": 1,
+      "q": "If a car travels 180 miles in 3 hours, what is its average speed in miles per hour?",
+      "options": ["50", "55", "60", "65"],
+      "correct": "60"
+    },
+    {
+      "number": 2,
+      "q": "A worker earns $480 for working 6 days. At the same rate, how much will the worker earn in 9 days?",
+      "options": ["$640", "$720", "$800", "$840"],
+      "correct": "$720"
+    },
+    {
+      "number": 3,
+      "q": "A tank can be filled by Pipe A in 6 hours and by Pipe B in 12 hours. How long will it take to fill the tank if both pipes work together?",
+      "options": ["3 hours", "4 hours", "6 hours", "8 hours"],
+      "correct": "4 hours"
+    },
+    {
+      "number": 4,
+      "q": "If 40% of a number is 96, what is 75% of that number?",
+      "options": ["150", "160", "180", "200"],
+      "correct": "180"
+    },
+    {
+      "number": 5,
+      "q": "A store reduces the price of an item by 20% and then applies a 10% sales tax on the reduced price. What is the net effect on the original price?",
+      "options": ["10% decrease", "12% decrease", "8% decrease", "2% increase"],
+      "correct": "12% decrease"
+    },
+    {
+      "number": 6,
+      "q": "A train traveling at 60 mph takes 30 seconds to pass a platform. How long is the platform?",
+      "options": ["500 m", "600 m", "700 m", "800 m"],
+      "correct": "500 m"
+    },
+    {
+      "number": 7,
+      "q": "A man invests $5,000 at an annual simple interest rate of 6%. What will be the total amount after 4 years?",
+      "options": ["$5,800", "$6,000", "$6,200", "$6,400"],
+      "correct": "$6,200"
+    },
+    {
+      "number": 8,
+      "q": "Two numbers are in the ratio 3:5. If their sum is 64, what is the larger number?",
+      "options": ["24", "30", "40", "44"],
+      "correct": "40"
+    },
+    {
+      "number": 9,
+      "q": "A plane travels 1,500 miles with the wind in 3 hours and returns against the wind in 5 hours. What is the speed of the plane in still air?",
+      "options": ["300 mph", "350 mph", "400 mph", "450 mph"],
+      "correct": "400 mph"
+    },
+    {
+      "number": 10,
+      "q": "If the cost of 8 notebooks is equal to the cost of 5 pens, and one pen costs $4, what is the cost of one notebook?",
+      "options": ["$2.50", "$3.00", "$4.00", "$5.00"],
+      "correct": "$2.50"
+    },
+    {
+      "number": 11,
+      "q": "A rectangle has a perimeter of 84 cm. If its length is twice its width, what is the area of the rectangle?",
+      "options": ["288 cm²", "294 cm²", "300 cm²", "336 cm²"],
+      "correct": "294 cm²"
+    },
+    {
+      "number": 12,
+      "q": "A machine produces 240 units in 8 hours. At the same rate, how many units will it produce in 14 hours?",
+      "options": ["360", "400", "420", "480"],
+      "correct": "420"
+    },
+    {
+      "number": 13,
+      "q": "A sum of money triples itself in 12 years at simple interest. What is the annual interest rate?",
+      "options": ["12.5%", "15%", "16.67%", "20%"],
+      "correct": "16.67%"
+    },
+    {
+      "number": 14,
+      "q": "If a cyclist reduces his speed by 20%, he takes 15 minutes longer to cover the same distance. What was his original time?",
+      "options": ["45 min", "60 min", "75 min", "90 min"],
+      "correct": "60 min"
+    },
+    {
+      "number": 15,
+      "q": "The average of 7 numbers is 48. If one number is excluded, the average becomes 45. What is the excluded number?",
+      "options": ["63", "66", "69", "72"],
+      "correct": "69"
+    },
+    {
+      "number": 16,
+      "q": "A shopkeeper marks an item 25% above cost price and then offers a discount of 10%. What is the net profit percentage?",
+      "options": ["10%", "12.5%", "15%", "17.5%"],
+      "correct": "12.5%"
+    },
+    {
+      "number": 17,
+      "q": "If the ratio of boys to girls in a class is 7:5 and there are 24 girls, how many students are there in total?",
+      "options": ["52", "56", "60", "72"],
+      "correct": "56"
+    },
+    {
+      "number": 18,
+      "q": "A boat travels 24 miles downstream in 2 hours and takes 4 hours to return upstream. What is the speed of the current?",
+      "options": ["3 mph", "4 mph", "5 mph", "6 mph"],
+      "correct": "3 mph"
+    },
+    {
+      "number": 18,
+      "q": "If 5 machines can produce 600 units in 10 days, how many days will 8 machines take to produce 960 units?",
+      "options": ["8", "9", "10", "12"],
+      "correct": "10"
+    },
+    {
+      "number": 19,
+      "q": "A sum of money becomes $7,200 after 3 years at compound interest, compounded annually at 10%. What was the principal?",
+      "options": ["$5,000", "$5,400", "$6,000", "$6,200"],
+      "correct": "$6,000"
+    },
+    {
+      "number": 20,
+      "q": "The difference between two numbers is 24. If their product is 1,280, what is the larger number?",
+      "options": ["40", "48", "52", "56"],
+      "correct": "56"
+    },
+    {
+      "number": 21,
+      "q": "If the radius of a circle is increased by 10%, by approximately what percentage does the area increase?",
+      "options": ["10%", "20%", "21%", "25%"],
+      "correct": "21%"
+    },
+    {
+      "number": 22,
+      "q": "A contractor completes 60% of a job in 18 days. How many total days are required to complete the entire job at the same rate?",
+      "options": ["24", "27", "30", "36"],
+      "correct": "30"
+    },
+    {
+      "number": 23,
+      "q": "If a person spends 30% of his income on rent, 25% on food, and saves $900, what is his monthly income?",
+      "options": ["$3,000", "$3,600", "$4,000", "$4,500"],
+      "correct": "$3,000"
+    },
+    {
+      "number": 24,
+      "q": "Two trains start at the same time from two stations 300 miles apart and travel toward each other at speeds of 70 mph and 80 mph. How long will it take for them to meet?",
+      "options": ["1.8 hours", "2 hours", "2.2 hours", "2.5 hours"],
+      "correct": "2 hours"
+    },
+    {
+      "number": 25,
+      "q": "If a project is completed by 12 workers in 15 days, how many days will it take 18 workers to complete the same project at the same rate?",
+      "options": ["8", "9", "10", "12"],
+      "correct": "10"
+    }
+  ]
+}

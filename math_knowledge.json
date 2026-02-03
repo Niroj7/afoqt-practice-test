@@ -1,0 +1,162 @@
+{
+  "section": "Math Knowledge",
+  "time_minutes": 22,
+  "questions": [
+    {
+      "number": 1,
+      "q": "Solve for x: 3x + 7 = 25",
+      "options": ["4", "5", "6", "7"],
+      "correct": "6"
+    },
+    {
+      "number": 2,
+      "q": "What is the value of (4² × 2³)?",
+      "options": ["64", "96", "128", "256"],
+      "correct": "128"
+    },
+    {
+      "number": 3,
+      "q": "If 5x − 2 = 3x + 10, what is x?",
+      "options": ["4", "5", "6", "7"],
+      "correct": "6"
+    },
+    {
+      "number": 4,
+      "q": "What is the slope of the line passing through the points (2, 3) and (6, 11)?",
+      "options": ["1", "2", "3", "4"],
+      "correct": "2"
+    },
+    {
+      "number": 5,
+      "q": "Simplify: (3/4) ÷ (2/5)",
+      "options": ["15/8", "8/15", "5/6", "6/5"],
+      "correct": "15/8"
+    },
+    {
+      "number": 6,
+      "q": "If x² = 49, what are the possible values of x?",
+      "options": ["7", "-7", "±7", "0"],
+      "correct": "±7"
+    },
+    {
+      "number": 7,
+      "q": "What is the area of a triangle with base 12 cm and height 9 cm?",
+      "options": ["54 cm²", "96 cm²", "108 cm²", "72 cm²"],
+      "correct": "54 cm²"
+    },
+    {
+      "number": 8,
+      "q": "Solve: 2(x − 3) + 5 = 15",
+      "options": ["4", "5", "6", "7"],
+      "correct": "5"
+    },
+    {
+      "number": 9,
+      "q": "What is the value of √(144 + 25)?",
+      "options": ["11", "12", "13", "14"],
+      "correct": "13"
+    },
+    {
+      "number": 10,
+      "q": "If the radius of a circle is doubled, the area becomes:",
+      "options": ["2 times larger", "3 times larger", "4 times larger", "8 times larger"],
+      "correct": "4 times larger"
+    },
+    {
+      "number": 11,
+      "q": "Simplify: 5x² − 3x + 2x² + x",
+      "options": ["7x² + 4x", "7x² − 2x", "5x² − 2x", "7x² + x"],
+      "correct": "7x² − 2x"
+    },
+    {
+      "number": 12,
+      "q": "What is the value of 2⁵ − 3²?",
+      "options": ["19", "23", "25", "29"],
+      "correct": "23"
+    },
+    {
+      "number": 13,
+      "q": "If 4x = 2y and y = 10, what is x?",
+      "options": ["2", "3", "4", "5"],
+      "correct": "5"
+    },
+    {
+      "number": 14,
+      "q": "What is the perimeter of a square with area 64 cm²?",
+      "options": ["24 cm", "28 cm", "32 cm", "36 cm"],
+      "correct": "32 cm"
+    },
+    {
+      "number": 15,
+      "q": "Solve for x: x/3 + 5 = 9",
+      "options": ["9", "10", "11", "12"],
+      "correct": "12"
+    },
+    {
+      "number": 16,
+      "q": "Which expression is equivalent to (x + 3)(x − 3)?",
+      "options": ["x² − 9", "x² + 9", "x² − 6x", "x² + 6x"],
+      "correct": "x² − 9"
+    },
+    {
+      "number": 17,
+      "q": "What is the value of sin 30°?",
+      "options": ["1/2", "√2/2", "√3/2", "1"],
+      "correct": "1/2"
+    },
+    {
+      "number": 18,
+      "q": "If a = 2 and b = −3, what is the value of a² + 2ab + b²?",
+      "options": ["1", "5", "9", "25"],
+      "correct": "1"
+    },
+    {
+      "number": 19,
+      "q": "What is the solution to the inequality 3x − 7 > 11?",
+      "options": ["x > 4", "x > 6", "x > 7", "x > 9"],
+      "correct": "x > 6"
+    },
+    {
+      "number": 20,
+      "q": "What is the midpoint of the line segment joining (2, 4) and (8, 10)?",
+      "options": ["(4,6)", "(5,7)", "(6,8)", "(7,9)"],
+      "correct": "(5,7)"
+    },
+    {
+      "number": 21,
+      "q": "Simplify: (x³)(x⁴)",
+      "options": ["x⁷", "x¹²", "x⁶", "x⁵"],
+      "correct": "x⁷"
+    },
+    {
+      "number": 21,
+      "q": "What is the value of cos 60°?",
+      "options": ["1/2", "√2/2", "√3/2", "1"],
+      "correct": "1/2"
+    },
+    {
+      "number": 22,
+      "q": "If the volume of a cube is 125 cm³, what is the length of one side?",
+      "options": ["3 cm", "4 cm", "5 cm", "6 cm"],
+      "correct": "5 cm"
+    },
+    {
+      "number": 23,
+      "q": "Solve: |x − 5| = 3",
+      "options": ["2 or 8", "3 or 7", "1 or 9", "0 or 10"],
+      "correct": "2 or 8"
+    },
+    {
+      "number": 24,
+      "q": "What is the sum of the interior angles of a pentagon?",
+      "options": ["360°", "450°", "540°", "720°"],
+      "correct": "540°"
+    },
+    {
+      "number": 25,
+      "q": "If f(x) = 2x² − 3x + 1, what is f(2)?",
+      "options": ["3", "5", "7", "9"],
+      "correct": "3"
+    }
+  ]
+}

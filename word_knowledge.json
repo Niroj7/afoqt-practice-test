@@ -1,0 +1,156 @@
+{
+  "section": "Word Knowledge",
+  "time_minutes": 5,
+  "questions": [
+    {
+      "number": 1,
+      "q": "The word 'abundant' most nearly means:",
+      "options": ["Scarce", "Plentiful", "Rare", "Limited"],
+      "correct": "Plentiful"
+    },
+    {
+      "number": 2,
+      "q": "The word 'fragile' most nearly means:",
+      "options": ["Strong", "Delicate", "Heavy", "Rigid"],
+      "correct": "Delicate"
+    },
+    {
+      "number": 3,
+      "q": "The word 'meticulous' most nearly means:",
+      "options": ["Careless", "Precise", "Hasty", "Indifferent"],
+      "correct": "Precise"
+    },
+    {
+      "number": 4,
+      "q": "The word 'ambiguous' most nearly means:",
+      "options": ["Clear", "Certain", "Unclear", "Obvious"],
+      "correct": "Unclear"
+    },
+    {
+      "number": 5,
+      "q": "The word 'candid' most nearly means:",
+      "options": ["Secretive", "Frank", "Polite", "Hesitant"],
+      "correct": "Frank"
+    },
+    {
+      "number": 6,
+      "q": "The word 'resilient' most nearly means:",
+      "options": ["Rigid", "Weak", "Adaptable", "Fragile"],
+      "correct": "Adaptable"
+    },
+    {
+      "number": 7,
+      "q": "The word 'obsolete' most nearly means:",
+      "options": ["Modern", "Outdated", "Efficient", "Popular"],
+      "correct": "Outdated"
+    },
+    {
+      "number": 8,
+      "q": "The word 'prudent' most nearly means:",
+      "options": ["Reckless", "Careful", "Impulsive", "Bold"],
+      "correct": "Careful"
+    },
+    {
+      "number": 9,
+      "q": "The word 'eloquent' most nearly means:",
+      "options": ["Silent", "Persuasive", "Unclear", "Timid"],
+      "correct": "Persuasive"
+    },
+    {
+      "number": 10,
+      "q": "The word 'concurrent' most nearly means:",
+      "options": ["Sequential", "Simultaneous", "Delayed", "Separate"],
+      "correct": "Simultaneous"
+    },
+    {
+      "number": 11,
+      "q": "The word 'mitigate' most nearly means:",
+      "options": ["Worsen", "Ignore", "Reduce", "Create"],
+      "correct": "Reduce"
+    },
+    {
+      "number": 12,
+      "q": "The word 'superfluous' most nearly means:",
+      "options": ["Necessary", "Excessive", "Relevant", "Efficient"],
+      "correct": "Excessive"
+    },
+    {
+      "number": 13,
+      "q": "The word 'tenacious' most nearly means:",
+      "options": ["Weak", "Persistent", "Flexible", "Passive"],
+      "correct": "Persistent"
+    },
+    {
+      "number": 14,
+      "q": "The word 'lucid' most nearly means:",
+      "options": ["Confusing", "Clear", "Complex", "Vague"],
+      "correct": "Clear"
+    },
+    {
+      "number": 15,
+      "q": "The word 'ostentatious' most nearly means:",
+      "options": ["Modest", "Showy", "Simple", "Reserved"],
+      "correct": "Showy"
+    },
+    {
+      "number": 16,
+      "q": "The word 'inadvertent' most nearly means:",
+      "options": ["Intentional", "Accidental", "Planned", "Deliberate"],
+      "correct": "Accidental"
+    },
+    {
+      "number": 17,
+      "q": "The word 'scrutinize' most nearly means:",
+      "options": ["Ignore", "Examine closely", "Summarize", "Dismiss"],
+      "correct": "Examine closely"
+    },
+    {
+      "number": 18,
+      "q": "The word 'coherent' most nearly means:",
+      "options": ["Logical", "Incomplete", "Unrelated", "Confused"],
+      "correct": "Logical"
+    },
+    {
+      "number": 19,
+      "q": "The word 'placate' most nearly means:",
+      "options": ["Provoke", "Calm", "Annoy", "Threaten"],
+      "correct": "Calm"
+    },
+    {
+      "number": 20,
+      "q": "The word 'arduous' most nearly means:",
+      "options": ["Easy", "Tedious", "Demanding", "Brief"],
+      "correct": "Demanding"
+    },
+    {
+      "number": 21,
+      "q": "The word 'impartial' most nearly means:",
+      "options": ["Biased", "Fair", "Opinionated", "Selective"],
+      "correct": "Fair"
+    },
+    {
+      "number": 22,
+      "q": "The word 'brevity' most nearly means:",
+      "options": ["Length", "Accuracy", "Conciseness", "Detail"],
+      "correct": "Conciseness"
+    },
+    {
+      "number": 23,
+      "q": "The word 'esoteric' most nearly means:",
+      "options": ["Common", "Widely known", "Obscure", "Popular"],
+      "correct": "Obscure"
+    },
+    {
+      "number": 24,
+      "q": "The word 'circumspect' most nearly means:",
+      "options": ["Careless", "Cautious", "Bold", "Reckless"],
+      "correct": "Cautious"
+    },
+    {
+      "number": 25,
+      "q": "The word 'immutable' most nearly means:",
+      "options": ["Flexible", "Changeable", "Permanent", "Temporary"],
+      "correct": "Permanent"
+    }
+  ]
+}

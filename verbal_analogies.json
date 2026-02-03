@@ -1,0 +1,131 @@
+{
+  "section": "Verbal Analogies",
+  "time_minutes": 8,
+  "questions": [
+    {
+      "q": "FRUGAL is to WASTEFUL as CAUTIOUS is to:",
+      "options": ["Careless", "Alert", "Fearful", "Reserved"],
+      "correct": "Careless"
+    },
+    {
+      "q": "OBSCURE is to CLEAR as COMPLEX is to:",
+      "options": ["Simple", "Large", "Confusing", "Hidden"],
+      "correct": "Simple"
+    },
+    {
+      "q": "RELUCTANT is to EAGER as TIMID is to:",
+      "options": ["Bold", "Fearful", "Quiet", "Slow"],
+      "correct": "Bold"
+    },
+    {
+      "q": "TRANSPARENT is to OPAQUE as HONEST is to:",
+      "options": ["Frank", "Deceitful", "Open", "Direct"],
+      "correct": "Deceitful"
+    },
+    {
+      "q": "SCARCE is to PLENTIFUL as MEAGER is to:",
+      "options": ["Small", "Adequate", "Abundant", "Insufficient"],
+      "correct": "Abundant"
+    },
+    {
+      "q": "VIGOROUS is to LETHARGIC as ALERT is to:",
+      "options": ["Sleepy", "Aware", "Sharp", "Focused"],
+      "correct": "Sleepy"
+    },
+    {
+      "q": "MITIGATE is to WORSEN as SOOTHE is to:",
+      "options": ["Calm", "Agitate", "Relax", "Pacify"],
+      "correct": "Agitate"
+    },
+    {
+      "q": "PRECISE is to VAGUE as RIGID is to:",
+      "options": ["Strict", "Flexible", "Firm", "Solid"],
+      "correct": "Flexible"
+    },
+    {
+      "q": "AMPLIFY is to DIMINISH as EXPAND is to:",
+      "options": ["Grow", "Increase", "Contract", "Extend"],
+      "correct": "Contract"
+    },
+    {
+      "q": "BENEVOLENT is to KIND as MALEVOLENT is to:",
+      "options": ["Evil", "Strict", "Harsh", "Cruel"],
+      "correct": "Evil"
+    },
+    {
+      "q": "DORMANT is to ACTIVE as SILENT is to:",
+      "options": ["Mute", "Quiet", "Noisy", "Calm"],
+      "correct": "Noisy"
+    },
+    {
+      "q": "PROFOUND is to SHALLOW as INTENSE is to:",
+      "options": ["Strong", "Extreme", "Mild", "Severe"],
+      "correct": "Mild"
+    },
+    {
+      "q": "CANDID is to FRANK as GUARDED is to:",
+      "options": ["Reserved", "Open", "Honest", "Direct"],
+      "correct": "Reserved"
+    },
+    {
+      "q": "FLEETING is to PERMANENT as TEMPORARY is to:",
+      "options": ["Short", "Brief", "Lasting", "Quick"],
+      "correct": "Lasting"
+    },
+    {
+      "q": "METICULOUS is to CARELESS as DILIGENT is to:",
+      "options": ["Lazy", "Attentive", "Hardworking", "Focused"],
+      "correct": "Lazy"
+    },
+    {
+      "q": "ELOQUENT is to INARTICULATE as CONFIDENT is to:",
+      "options": ["Bold", "Shy", "Assured", "Calm"],
+      "correct": "Shy"
+    },
+    {
+      "q": "EXPLICIT is to IMPLIED as VISIBLE is to:",
+      "options": ["Seen", "Hidden", "Clear", "Obvious"],
+      "correct": "Hidden"
+    },
+    {
+      "q": "ORTHODOX is to TRADITIONAL as RADICAL is to:",
+      "options": ["Extreme", "Modern", "Unconventional", "Innovative"],
+      "correct": "Unconventional"
+    },
+    {
+      "q": "CONCISE is to WORDY as ECONOMICAL is to:",
+      "options": ["Cheap", "Efficient", "Wasteful", "Affordable"],
+      "correct": "Wasteful"
+    },
+    {
+      "q": "LUCID is to CONFUSING as COHERENT is to:",
+      "options": ["Logical", "Clear", "Disordered", "Structured"],
+      "correct": "Disordered"
+    },
+    {
+      "q": "AUGMENT is to REDUCE as ELEVATE is to:",
+      "options": ["Raise", "Lift", "Lower", "Improve"],
+      "correct": "Lower"
+    },
+    {
+      "q": "IMPARTIAL is to BIASED as OBJECTIVE is to:",
+      "options": ["Neutral", "Fair", "Subjective", "Balanced"],
+      "correct": "Subjective"
+    },
+    {
+      "q": "ROBUST is to FRAIL as RESILIENT is to:",
+      "options": ["Strong", "Durable", "Weak", "Flexible"],
+      "correct": "Weak"
+    },
+    {
+      "q": "PRUDENT is to RECKLESS as CALCULATED is to:",
+      "options": ["Planned", "Careful", "Hasty", "Intentional"],
+      "correct": "Hasty"
+    },
+    {
+      "q": "INNOVATE is to STAGNATE as PROGRESS is to:",
+      "options": ["Advance", "Develop", "Decline", "Improve"],
+      "correct": "Decline"
+    }
+  ]
+}

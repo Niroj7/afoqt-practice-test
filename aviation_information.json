@@ -1,0 +1,162 @@
+{
+  "section": "Aviation Information",
+  "time_minutes": 8,
+  "questions": [
+    {
+      "number": 1,
+      "q": "Which force acts upward to oppose the weight of an aircraft?",
+      "options": ["Thrust", "Drag", "Lift", "Momentum"],
+      "correct": "Lift"
+    },
+    {
+      "number": 2,
+      "q": "Which control surface primarily controls the roll of an aircraft?",
+      "options": ["Elevator", "Rudder", "Aileron", "Flap"],
+      "correct": "Aileron"
+    },
+    {
+      "number": 3,
+      "q": "Angle of attack is the angle between the wing chord line and the:",
+      "options": ["Horizon", "Aircraft nose", "Relative wind", "Propeller axis"],
+      "correct": "Relative wind"
+    },
+    {
+      "number": 4,
+      "q": "A stall occurs when the aircraft exceeds the:",
+      "options": ["Maximum altitude", "Minimum airspeed", "Critical angle of attack", "Engine power limit"],
+      "correct": "Critical angle of attack"
+    },
+    {
+      "number": 5,
+      "q": "Which instrument shows an aircraft’s rate of climb or descent?",
+      "options": ["Altimeter", "Airspeed indicator", "Vertical speed indicator", "Heading indicator"],
+      "correct": "Vertical speed indicator"
+    },
+    {
+      "number": 6,
+      "q": "Which atmospheric layer contains most weather phenomena?",
+      "options": ["Stratosphere", "Mesosphere", "Troposphere", "Thermosphere"],
+      "correct": "Troposphere"
+    },
+    {
+      "number": 7,
+      "q": "Which control surface is primarily used to control yaw?",
+      "options": ["Elevator", "Rudder", "Aileron", "Flap"],
+      "correct": "Rudder"
+    },
+    {
+      "number": 8,
+      "q": "What effect does a headwind have on aircraft takeoff?",
+      "options": ["Increases ground speed", "Decreases lift", "Decreases required runway length", "Increases drag"],
+      "correct": "Decreases required runway length"
+    },
+    {
+      "number": 9,
+      "q": "Which force opposes the forward motion of an aircraft?",
+      "options": ["Lift", "Weight", "Drag", "Inertia"],
+      "correct": "Drag"
+    },
+    {
+      "number": 10,
+      "q": "Which factor directly increases lift if all others remain constant?",
+      "options": ["Decreased air density", "Increased airspeed", "Reduced wing area", "Lower angle of attack"],
+      "correct": "Increased airspeed"
+    },
+    {
+      "number": 11,
+      "q": "Which type of drag is associated with the production of lift?",
+      "options": ["Parasitic drag", "Skin friction drag", "Form drag", "Induced drag"],
+      "correct": "Induced drag"
+    },
+    {
+      "number": 12,
+      "q": "What does the altimeter measure?",
+      "options": ["Airspeed", "Aircraft attitude", "Altitude", "Rate of climb"],
+      "correct": "Altitude"
+    },
+    {
+      "number": 13,
+      "q": "Which condition increases induced drag the most?",
+      "options": ["Low angle of attack", "High airspeed", "High angle of attack", "Thin air"],
+      "correct": "High angle of attack"
+    },
+    {
+      "number": 14,
+      "q": "Which instrument operates based on gyroscopic principles?",
+      "options": ["Airspeed indicator", "Altimeter", "Attitude indicator", "Magnetic compass"],
+      "correct": "Attitude indicator"
+    },
+    {
+      "number": 15,
+      "q": "What happens to lift when air density decreases?",
+      "options": ["Lift increases", "Lift decreases", "Lift remains constant", "Lift doubles"],
+      "correct": "Lift decreases"
+    },
+    {
+      "number": 16,
+      "q": "Which type of cloud is commonly associated with thunderstorms?",
+      "options": ["Cirrus", "Stratus", "Cumulonimbus", "Altostratus"],
+      "correct": "Cumulonimbus"
+    },
+    {
+      "number": 17,
+      "q": "What does Mach number represent?",
+      "options": ["Altitude above sea level", "Speed relative to sound", "Fuel efficiency", "Engine RPM"],
+      "correct": "Speed relative to sound"
+    },
+    {
+      "number": 18,
+      "q": "Which component produces thrust in a jet aircraft?",
+      "options": ["Propeller", "Compressor", "Exhaust jet", "Wing"],
+      "correct": "Exhaust jet"
+    },
+    {
+      "number": 19,
+      "q": "Which factor most directly affects aircraft stability?",
+      "options": ["Paint color", "Center of gravity", "Wing tip shape", "Cabin pressure"],
+      "correct": "Center of gravity"
+    },
+    {
+      "number": 20,
+      "q": "Why are flaps extended during landing?",
+      "options": ["Reduce drag", "Increase thrust", "Increase lift at low speeds", "Improve fuel efficiency"],
+      "correct": "Increase lift at low speeds"
+    },
+    {
+      "number": 21,
+      "q": "What happens to true airspeed as altitude increases while indicated airspeed remains constant?",
+      "options": ["Decreases", "Remains constant", "Increases", "Becomes zero"],
+      "correct": "Increases"
+    },
+    {
+      "number": 22,
+      "q": "Which flight condition exists when lift equals weight and thrust equals drag?",
+      "options": ["Climbing flight", "Descending flight", "Accelerated flight", "Level flight"],
+      "correct": "Level flight"
+    },
+    {
+      "number": 23,
+      "q": "Which weather condition is most hazardous during takeoff?",
+      "options": ["Headwind", "Clear skies", "Tailwind", "Cool temperature"],
+      "correct": "Tailwind"
+    },
+    {
+      "number": 24,
+      "q": "Which control surface primarily controls pitch?",
+      "options": ["Rudder", "Aileron", "Elevator", "Flap"],
+      "correct": "Elevator"
+    },
+    {
+      "number": 25,
+      "q": "What is the primary purpose of an airspeed indicator?",
+      "options": ["Measure altitude", "Measure ground speed", "Measure airspeed relative to airflow", "Measure rate of climb"],
+      "correct": "Measure airspeed relative to airflow"
+    },
+    {
+      "number": 26,
+      "q": "If thrust is increased while drag remains constant, the aircraft will:",
+      "options": ["Decelerate", "Maintain speed", "Accelerate", "Stall"],
+      "correct": "Accelerate"
+    }
+  ]
+}
