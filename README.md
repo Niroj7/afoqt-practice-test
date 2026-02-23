@@ -11,7 +11,7 @@ https://niroj7.github.io/afoqt-practice-test/
 ## 📌 Features
 
 - 📝 **AFOQT-Style Questions**  
-  Realistic questions across all major AFOQT sections.
+  Realistic questions across all major AFOQT section.
 
 - ⏱ **Official Section Timings**  
   Each section follows real AFOQT-style time limits.
